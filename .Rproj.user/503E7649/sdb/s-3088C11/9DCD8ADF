@@ -1,0 +1,17 @@
+{
+    "contents" : "Package: mouseTissueCompare\nType: Package\nTitle: Compare Mouse Tissues\nVersion: 0.1\nDate: 2015-12-22\nAuthor: Witold Wolski wewolski@gmail.com\nMaintainer: Witold Wolski <wewolski@gmail.com>\nDescription: Analysing SWATH MS mouse data. SWATH-MS mouse data in the inst/extdata directory.\nLicense: GPL-3\nLazyData: TRUE\nImports: imsbInfer\nRoxygenNote: 5.0.1\n",
+    "created" : 1450784938578.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "413016153",
+    "id" : "9DCD8ADF",
+    "lastKnownWriteTime" : 1450786929,
+    "path" : "C:/Users/wewol/prog/mouseTissueCompare/DESCRIPTION",
+    "project_path" : "DESCRIPTION",
+    "properties" : {
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "type" : "dcf"
+}
