@@ -8,5 +8,5 @@ Maintainer: Witold Wolski <wewolski@gmail.com>
 Description: Analysing SWATH MS mouse data. SWATH-MS mouse data in the inst/extdata directory.
 License: GPL-3
 LazyData: TRUE
-Imports: imsbInfer
+Imports: imsbInfer, igraph
 RoxygenNote: 5.0.1
